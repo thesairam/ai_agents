@@ -1,0 +1,8 @@
+pandas
+numpy
+entsoe-py
+xgboost
+scikit-learn
+pyomo
+python-dotenv
+streamlit
